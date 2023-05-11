@@ -1,0 +1,13 @@
+{
+    "name": "consulta-cep/consulta-cep",
+    "description": "Sistema de consulta de CEP",
+    "authors": [
+        {
+            "name": "João Matheus",
+            "email": "joaomatheusantunes.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "flyingluscas/correios-php": "^2.4"
+    }
+}
